@@ -59,7 +59,7 @@ p {
     border: solid 0.2em black;
     margin: 0.4em;
     height: 9em;
-    width: 11.9em;
+    width: 13.3em;
 }
 .card h1{
     font-size: 1em;
@@ -88,15 +88,6 @@ article{
     width: 50%;
 }
 
-@media screen and (min-width: 35em) {
-    header{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    header ul{
-        display: flex;
-    }
-}
+
 
 
